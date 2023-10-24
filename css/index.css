@@ -18,3 +18,8 @@ h1,h2{
    color: rgba(255, 255, 255, 0.719);
    text-decoration: none;
 }
+
+.primera-imagen{
+    width: 10rem;
+    height: 10rem;
+}
