@@ -19,7 +19,12 @@ h1,h2{
    text-decoration: none;
 }
 
-.primera-imagen{
-    width: 10rem;
-    height: 10rem;
+.imagen-grande{
+    width: 30rem;
+    height: 50rem;
+}
+
+.imagen-chica{
+    width: 30rem;
+    height: 25rem;
 }
