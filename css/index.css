@@ -38,3 +38,23 @@ h1,h2{
     width: 20rem;
     height: 25rem;
 }
+
+.white{
+    color: white;
+}
+
+.sofia{
+    width: 30rem;
+    height: 20rem;
+}
+
+.texto-about{
+    width: 30rem;
+    height: 30rem;
+}
+
+.container-text{
+    text-align: center;
+    height: 10rem;
+    width: 30rem;
+}
