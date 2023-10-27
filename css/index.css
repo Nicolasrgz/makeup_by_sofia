@@ -50,6 +50,7 @@ h1,h2{
 .sofia{
     width: 30rem;
     height: 20rem;
+    border-radius: 10px;
 }
 
 .texto-about{
