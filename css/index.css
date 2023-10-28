@@ -34,6 +34,11 @@ h1,h2{
     height: 25rem;
 }
 
+.imagenes-section-4{
+    width: 30rem;
+    height: 30rem;
+}
+
 .white{
     color: white;
     width: 30rem;
@@ -121,4 +126,31 @@ h1,h2{
         width: 20rem;
         height: 17rem;
       }
+  }
+
+  @media only screen and (min-width:375px) and (max-width:980px){
+    .imagen-grande{
+        width: 11rem;
+        height: 30rem;
+    }
+    
+    .imagen-chica{
+        width: 11rem;
+        height: 15rem;
+    }
+    
+    .imagenes-section-2{
+        width: 11rem;
+        height: 20rem;
+    }
+    
+    .imagenes-section-3{
+        width: 7rem;
+        height: 20rem;
+    }
+
+    .imagenes-section-4{
+        width: 11rem;
+        height: 20rem;
+    }
   }
