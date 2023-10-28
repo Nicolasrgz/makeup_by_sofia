@@ -101,3 +101,7 @@ h1,h2{
     height: calc(50% + 3px);
     border-color: #0668C9;
   }
+
+  .i-footer{
+    font-size: 40px;
+  }
